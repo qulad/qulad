@@ -38,4 +38,4 @@ Backend-first developer focused on scalable web applications and clean architect
 
 ## Connect
 
-[qulad.dev](https://qulad.dev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ahmet-ertugrul-kaya/) &nbsp;·&nbsp; [ertugrul.kaya@qulad.dev](mailto:ertugrul.kaya@qulad.dev)
+[qulad.dev](https://qulad.dev)
